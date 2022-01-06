@@ -28,7 +28,7 @@ Para criar um repositório no Github com arquivos criados através de sua máqui
 
 - Precisamos agora adicionar o arquivo README.md ao estágio **staged**, ou seja, prepara-lo para upload no diretório GITHUB. Para isso, usamos o comando **git add**  seguido pelo nome do arquivo, neste caso **git add README.md**;
 
-> O mesmo comando pode ser utilizado como **git add *** para que todos os arquivos que estejam nesta pasta sejam preparados.
+> O mesmo comando pode ser utilizado como git add * para que todos os arquivos que estejam nesta pasta sejam preparados.
 
 
 
