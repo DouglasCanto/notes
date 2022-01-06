@@ -32,7 +32,7 @@ Para criar um repositório no Github com arquivos criados através de sua máqui
 
 
 
-- O arquivo está pronto para ser adicionado ao repositório no GITHUB, para isso é preciso que antes seja adicionado informações parao envio, utilizando o comando **git commit -m " Informações sobre o arquivo"**;
+- O arquivo está pronto para ser adicionado ao repositório no GITHUB, para isso é preciso que antes seja adicionado informações para o envio, utilizando o comando **git commit -m " Informações sobre o arquivo"**;
 
 > É necessário o uso das aspas quando iremos digitar algum texto. Exemplo para o caso: git commit -m "Envio do arquivo readme"
 
